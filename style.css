@@ -1,0 +1,32 @@
+/* GENERAL */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1e1e1e;
+}
+
+/* FONTS AND TXT */
+
+h1 {
+  font-family: "JetBrains Mono", monospace;
+}
+
+h2 {
+  font-family: "JetBrains Mono", monospace;
+}
+
+h3 {
+  font-family: "JetBrains Mono", monospace;
+}
+
+p {
+  font-family: "JetBrains Mono", monospace;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+}
